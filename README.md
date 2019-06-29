@@ -4,10 +4,11 @@
 ## Contents:
 
 * dwd_group_d_weather_data_analysis.ipynb - Weather data analysis notebook
+* DestituteDelancyMapLayers.ipynb - Precinct data analysis notebook
 * weather-data-creator.ipynb - Weather data SQL table creator
 * precinct-data-creator.ipynb - Weather data SQL table creator
 
 
 Presentation:
 * DELANCEY.pptx - presentation slides (includes schemas)
-* mapLaya.html - interactive map
+* mapLaya.html - interactive layer map
